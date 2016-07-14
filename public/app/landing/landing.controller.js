@@ -5,11 +5,8 @@
     .module('app.landing')
     .controller('LandingCtrl', LandingCtrl)
 
-  // LandingCtrl.$inject = [];
-
-  function LandingContrl () {
+  function LandingCtrl () {
     var vm = this;
-    // write your code here
     vm.data = 'World!';
   }
 

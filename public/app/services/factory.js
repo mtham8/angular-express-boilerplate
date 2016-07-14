@@ -5,15 +5,20 @@
     .module('app')
     .factory('LandingFactory', LandingFactory);
 
-  // LandingFactory.$inject = [ 'dependency' ];
+  LandingFactory.$inject = [];
 
-  function LandingFactory (dependency) {
+  function LandingFactory () {
+
+    var stateObj = {};
+
+    var factory = {
+      functionName: functionName
+    }
+
+    return factory;
 
     function functionName () {
-      // write your code here
-      return {
-        functionName: functionName
-      }
+      console.log('inside LandingFactory')
     }
 
   }
