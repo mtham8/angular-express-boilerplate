@@ -1,0 +1,19 @@
+{
+  "name": "angular-express-boilerplate",
+  "version": "1.0.0",
+  "description": "AngularExpressBP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtham8/angular-express-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtham8/angular-express-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mtham8/angular-express-boilerplate#readme"
+}
