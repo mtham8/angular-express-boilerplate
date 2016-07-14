@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/mtham8/angular-express-boilerplate/issues"
   },
-  "homepage": "https://github.com/mtham8/angular-express-boilerplate#readme"
+  "homepage": "https://github.com/mtham8/angular-express-boilerplate#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.7.1",
+    "express": "^4.14.0"
+  }
 }
